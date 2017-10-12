@@ -47,7 +47,6 @@ public class MainActivity extends AppCompatActivity {
         if (googleLocation.isChecked() && appleLocation.isChecked() && !alibabaLocation.isChecked() && !samsungLocation.isChecked()) {
             finalResult++;
         }
-
         String strText = q5Answer.getText().toString().trim();
         if (strText.equalsIgnoreCase("ios")) {
             finalResult++;

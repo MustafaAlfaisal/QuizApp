@@ -20,4 +20,5 @@
     <string name="google">Google</string>
     <string name="gmail">Gmail</string>
     <string name="q5">Q5: What is the name of iPhone operating system?</string>
+    <string name="hint">type your name here please</string>
 </resources>

@@ -30,7 +30,7 @@
                 <EditText
                     android:id="@+id/name"
                     style="@style/editTextStyle"
-                    android:hint="type your name here please" />
+                    android:hint="@string/hint" />
             </android.support.design.widget.TextInputLayout>
 
 
