@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="name">Name:</string>
+    <string name="option1Q1">apple</string>
+    <string name="option2Q1">Samsung</string>
+    <string name="option3Q1">Google</string>
+    <string name="option1Q2">2002</string>
+    <string name="option2Q2">2007</string>
+    <string name="option3Q2">2004</string>
+    <string name="submitButton">submit</string>
+    <string name="q1">Q1: What company deveolped android?</string>
+    <string name="q4">Q4: Which companies located in USA?</string>
+    <string name="q3">Q3: Which of follow is Microsoft\'s email service?</string>
+    <string name="q2">Q2: What year was the first iPhone lunched?</string>
+    <string name="yahoomail">Yahoomail</string>
+    <string name="hotmail">hotmail</string>
+    <string name="apple">apple</string>
+    <string name="samsung">Samsung</string>
+    <string name="alibaba">Alibaba</string>
+    <string name="google">Google</string>
+    <string name="gmail">Gmail</string>
+    <string name="q5">Q5: What is the name of iPhone operating system?</string>
+</resources>
